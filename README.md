@@ -117,3 +117,6 @@ https://creativecommons.org/licenses/by/4.0/
 ## Acknowledgments
 
 This dataset was created as part of research on AI-based structural damage detection and emergency decision support systems.
+
+![Dataset](https://img.shields.io/badge/Dataset-FCD--108-blue)
+![License](https://img.shields.io/badge/License-CC%20BY%204.0-green)
