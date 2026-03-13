@@ -50,13 +50,13 @@ Dataset/v1/
 - `train/` 
 - `valid/`
   
-#### Train Set
+### Train Set
+- 87 images
+- manually annotated crack masks
 
-- 87 images - manually annotated crack masks
-
-#### Validation Set
-
-- 21 images - used for model evaluation
+### Validation Set
+- 21 images
+- used for model evaluation
 
 Masks follow the naming convention:
 
