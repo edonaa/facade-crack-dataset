@@ -89,12 +89,14 @@ This dataset is intended for research in:
 - computer vision for emergency management
 ## Citation
 If you use this dataset in your research, please cite the following paper:
+```bibtex
 @article{krasniqi2026distanceaware,
   title={A Lightweight Distance-Aware Loss for Thin Crack Segmentation in Building Façades under Limited Data Conditions},
   author={Krasniqi, Edona and Shehu, Visar},
   journal={Journal of Future Artificial Intelligence and Technologies},
   year={2026}
 }
+```
 
 ### Dataset Availability
 
